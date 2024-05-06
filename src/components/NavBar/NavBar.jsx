@@ -74,7 +74,7 @@ const NavBar = () => {
           <a href="#" className="block text-black hover:bg-green-300 hover:text-white px-3 py-2 rounded-md text-base font-medium">
             Resources
           </a>
-          <button className=" text-black bg-slate-400 ml-3 pt-2 pl-2 pb-2 pr-2 rounded-md text-base font-medium">
+          <button className=" text-black bg-green-700 ml-3 pt-2 pl-2 pb-2 pr-2 rounded-md text-base font-medium">
             Sign In
           </button>
           {/* Add more links as needed */}
